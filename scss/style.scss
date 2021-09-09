@@ -1,0 +1,82 @@
+.navbar{
+  background-color: black;
+  .nav-link{
+    color: white;
+    font-size: 20px;
+  }
+  .nav-link:hover{
+    text-decoration: underline;
+    color: #006266;
+  }
+}
+#home-section{
+  background-color: black;
+  color: #006266;
+  padding-top: 150px;
+  img:hover{
+    box-shadow: 4px 8px 16px 4px #40407a;
+  }
+p{
+  font-size: 25px;
+}
+}
+#about-section{
+  background-color: #32200A;
+  color: #dfe6e9;
+
+  p{
+    font-size: 25px;
+  }
+}
+#work-section{
+  background-color: #B79D93;
+  color: green;
+}
+#skill-section{
+  background-color: black;
+  color: #006266;
+  p{
+    font-size: 30px;
+  }
+  hr{
+    border-width: 5px;
+    border-color: black;
+  }
+  .fas{
+    margin-right: 10px;
+    font-size: 35px;
+    color: #006266;
+  }
+}
+#programing-languages{
+  color: orange;
+}
+#hobbies-languages{
+  background-color: #32200A;
+  color: #CF97A8;
+
+  ul,li{
+    font-size: 20px;
+  }
+}
+#form{
+  background-color: #B79D93;
+  hr{
+    border-width: 5px;
+    border-color: green;
+  }
+  h2{
+    margin-bottom: 20px;
+    color: white;
+  }
+  .fas{
+    font-size: 30px;
+  }
+  .far{
+    font-size: 30px;
+  }
+  .fab{
+    font-size: 40px;
+    color: black;
+  }
+}
